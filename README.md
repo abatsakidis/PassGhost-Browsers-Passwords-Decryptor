@@ -4,9 +4,9 @@
 |  _ \ __ _ ___ ___ / ___| |__   ___  ___| |_
 | |_) / _` / __/ __| |  _| '_ \ / _ \/ __| __|
 |  __/ (_| \__ \__ \ |_| | | | | (_) \__ \ |_
-|_|   \__,_|___/___/\____|_| |_|\___/|___/\__|```
+|_|   \__,_|___/___/\____|_| |_|\___/|___/\__|
      Firefox & Chrome Password Decryptor
-
+```
 A simple set of tools to decrypt saved passwords from **Mozilla Firefox** and **Google Chrome** browsers on Windows.
 
 ---
