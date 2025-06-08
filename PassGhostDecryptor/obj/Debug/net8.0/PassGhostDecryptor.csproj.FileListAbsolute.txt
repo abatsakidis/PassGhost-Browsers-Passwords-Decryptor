@@ -1,0 +1,14 @@
+C:\Users\mantis\source\repos\firefox_passwords_decryptor\PassGhostDecryptor\bin\Debug\net8.0\PassGhostDecryptor.exe
+C:\Users\mantis\source\repos\firefox_passwords_decryptor\PassGhostDecryptor\bin\Debug\net8.0\PassGhostDecryptor.deps.json
+C:\Users\mantis\source\repos\firefox_passwords_decryptor\PassGhostDecryptor\bin\Debug\net8.0\PassGhostDecryptor.runtimeconfig.json
+C:\Users\mantis\source\repos\firefox_passwords_decryptor\PassGhostDecryptor\bin\Debug\net8.0\PassGhostDecryptor.dll
+C:\Users\mantis\source\repos\firefox_passwords_decryptor\PassGhostDecryptor\bin\Debug\net8.0\PassGhostDecryptor.pdb
+C:\Users\mantis\source\repos\firefox_passwords_decryptor\PassGhostDecryptor\obj\Debug\net8.0\PassGhostDecryptor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mantis\source\repos\firefox_passwords_decryptor\PassGhostDecryptor\obj\Debug\net8.0\PassGhostDecryptor.AssemblyInfoInputs.cache
+C:\Users\mantis\source\repos\firefox_passwords_decryptor\PassGhostDecryptor\obj\Debug\net8.0\PassGhostDecryptor.AssemblyInfo.cs
+C:\Users\mantis\source\repos\firefox_passwords_decryptor\PassGhostDecryptor\obj\Debug\net8.0\PassGhostDecryptor.csproj.CoreCompileInputs.cache
+C:\Users\mantis\source\repos\firefox_passwords_decryptor\PassGhostDecryptor\obj\Debug\net8.0\PassGhostDecryptor.dll
+C:\Users\mantis\source\repos\firefox_passwords_decryptor\PassGhostDecryptor\obj\Debug\net8.0\refint\PassGhostDecryptor.dll
+C:\Users\mantis\source\repos\firefox_passwords_decryptor\PassGhostDecryptor\obj\Debug\net8.0\PassGhostDecryptor.pdb
+C:\Users\mantis\source\repos\firefox_passwords_decryptor\PassGhostDecryptor\obj\Debug\net8.0\PassGhostDecryptor.genruntimeconfig.cache
+C:\Users\mantis\source\repos\firefox_passwords_decryptor\PassGhostDecryptor\obj\Debug\net8.0\ref\PassGhostDecryptor.dll
