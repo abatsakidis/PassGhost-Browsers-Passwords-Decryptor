@@ -110,9 +110,9 @@ PassGhostDecryptor.exe <encrypted_file>
 ---
 ## Screenshots 
 
-![App Screenshot](screenshots/screen1.jpg)
+![App Screenshot](Screenshots/screen1.jpg)
 
-![App Screenshot](screenshots/screen2.jpg)
+![App Screenshot](Screenshots/screen2.jpg)
 
 ## Notes
 
