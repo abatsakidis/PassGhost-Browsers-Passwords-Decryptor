@@ -108,6 +108,11 @@ PassGhostDecryptor.exe <encrypted_file>
   (The tool reads the `Login Data` SQLite database.)
 
 ---
+## Screenshots 
+
+![App Screenshot](screenshots/screen1.jpg)
+
+![App Screenshot](screenshots/screen2.jpg)
 
 ## Notes
 
