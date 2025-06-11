@@ -1,0 +1,31 @@
+name: .NET Build
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+
+    runs-on: windows-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Setup .NET SDK
+      uses: actions/setup-dotnet@v3
+      with:
+        dotnet-version: '7.0.x' # Αν χρειάζεσαι άλλη έκδοση άλλαξε την
+
+    - name: Restore dependencies
+      run: dotnet restore Browsers_Passwords_Decryptor.sln
+
+    - name: Build solution
+      run: dotnet build Browsers_Passwords_Decryptor.sln --configuration Release --no-restore
+
+    - name: Run tests
+      run: dotnet test Browsers_Passwords_Decryptor.sln --no-build --verbosity normal
+      continue-on-error: true # Αφαίρεσε αν δεν έχεις tests

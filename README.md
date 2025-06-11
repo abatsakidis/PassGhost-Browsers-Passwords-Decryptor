@@ -1,4 +1,7 @@
 # PassGhost Browsers Passwords Decryptor
+
+![.NET Build](https://github.com/abatsakidis/PassGhost-Browsers-Passwords-Decryptor/actions/workflows/dotnet.yml/badge.svg)
+
 ```
  ____                ____ _               _
 |  _ \ __ _ ___ ___ / ___| |__   ___  ___| |_
